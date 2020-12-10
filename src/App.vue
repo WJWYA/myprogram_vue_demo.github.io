@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="这是一个vue项目发布到github的测试demo"/>
+    <HelloWorld msg="这是一个vue项目发布到github的测试demo" updata="这是一条更新的数据"/>
+    
   </div>
 </template>
 
